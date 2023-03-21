@@ -1,5 +1,5 @@
 # mark11
-First Download the file "Autonomous Vehicle Shuttle.ino"
-Second Change the Board and the USB Serial from the ARDUINO ide
-Last Upload the CODE
-HAPPY JOURNEY
+1.Download the file "Autonomous Vehicle Shuttle.ino" .
+2.Change the Board and the USB Serial from the ARDUINO ide.
+3.Upload the CODE.
+/* HAPPY JOURNEY */
